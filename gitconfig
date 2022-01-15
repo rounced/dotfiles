@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = drounce86@gmail.com
+	name = Darren Rounce
